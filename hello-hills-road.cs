@@ -1,6 +1,6 @@
 using System;
 
-// Create a Hello Hills Road program
+// Create a Hello Hills Road program in GitHub
 namespace Hello
 {
     class HelloHillsRoad
